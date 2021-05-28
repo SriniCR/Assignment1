@@ -1,2 +1,2 @@
 Assignment1:
-Outbput.txt Contents
+Outbput.txt Contents are in the Log File
